@@ -1,0 +1,17 @@
+f - f* after 800 solved subproblems:
+
+AGD: 0.15
+GD: 0.16
+Steepest AGD 2: 0.16
+Steepest AGD 3: 0.23
+Steepest GD: 0.3
+Steepest AGD: 0.31
+
+f - f* after 100 iterations:
+
+Steepest AGD 2: 0.14
+AGD: 0.18
+Steepest AGD 3: 0.2
+Steepest AGD: 0.22
+Steepest GD: 0.24
+GD: 0.33
